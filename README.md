@@ -1,40 +1,22 @@
-# Code Playground
+# Code Playground Test
 
-I attempt to clone codepen.io using Vue 3 and Monaco editor.
+Test build of the Vite code playground.
 
-## Installing
+![Screenshot](github-contents/screenshot.png)
 
-1. Install dependencies
+**Live demo:** [https://rogue-dev-studio.github.io/codeplayground-test/](https://rogue-dev-studio.github.io/codeplayground-test/)
 
-   ```bash
-   npm install
-   ```
+## Highlights
+- Static landing on Pages
+- Full app needs local Vite
 
-2. Fire up the server and watch files
+## Run
+Open `index.html` locally (Live Server on port **5500**), or use the live demo above.
 
-   ```bash
-   npm run dev
-   ```
+```bash
+git clone https://github.com/rogue-dev-studio/codeplayground-test.git
+```
 
-## Built with
+By [Aris Hadisopiyan](https://rogue-dev-studio.github.io/) / Rogue Dev Studio.
 
-- [Vue 3](https://v3.vuejs.org/)
-- [Vite](https://vitejs.dev/)
-- [Monaco Editor](https://github.com/microsoft/monaco-editor)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [VueUse](https://vueuse.org/)
-- [Split.js](https://github.com/nathancahill/split)
-- [Skypack for CDN imports](https://www.skypack.dev/)
-- [Vercel](https://vercel.com/)
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar).
-
-## Inspiration
-- https://tailwind-layouts.vercel.app/
-- https://play.tailwindcss.com/
-
-## License
-
-Licensed under the [MIT license](https://opensource.org/licenses/MIT).
+MIT
